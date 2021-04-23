@@ -1,1 +1,2 @@
 Bu Loyiha PostgreSql da bo'ladi
+git config --system --unset credential.helper
