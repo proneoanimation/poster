@@ -1,0 +1,1 @@
+Bu Loyiha PostgreSql da bo'ladi
